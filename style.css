@@ -139,6 +139,10 @@ h2 {
   contain: paint;
 }
 
+#swingvid {
+    width: 25%;
+}
+
 #nav-content ul {
   height: 100%;
   display: flex;
